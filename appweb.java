@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class appweb {
@@ -110,3 +111,4 @@ public class appweb {
         scanner.close();
     }
 }
+```
